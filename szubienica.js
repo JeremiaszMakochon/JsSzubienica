@@ -53,7 +53,7 @@ var hasla = [
     "primaaprilisowy", 
     "pięćdziesięciogroszówka",
     "anatomopatologiczny",
-    "deoksyrybonukleinowy"
+    "deoksyrybonukleinowy",
     "wyrewolwerowany rewolwerowiec"
 ];
 
