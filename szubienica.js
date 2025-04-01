@@ -54,7 +54,8 @@ var hasla = [
     "pięćdziesięciogroszówka",
     "anatomopatologiczny",
     "deoksyrybonukleinowy",
-    "wyrewolwerowany rewolwerowiec"
+    "wyrewolwerowany rewolwerowiec",
+    "kwas deoksyrybonukleinowy"
 ];
 
 var haslo = hasla[Math.floor(Math.random() * hasla.length)];
